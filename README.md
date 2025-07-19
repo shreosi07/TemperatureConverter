@@ -1,5 +1,5 @@
 # TemperatureConverter
-🌡️ Temperature Converter
+
 A simple and interactive Temperature Converter built with HTML, CSS, and JavaScript. Easily convert temperatures between Celsius, Fahrenheit, and Kelvin in real-time with a clean and user-friendly interface.
 
 Features:
